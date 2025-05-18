@@ -1,7 +1,7 @@
 # Header
 
-description of header 
+I am testing out the connection between my vscode and github profile
 
 ## Subheader
 
-description of subheader
+I hope it is working
